@@ -74,7 +74,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Elije el tema que deseas usar :</string>
+     <string>Elige el tema que deseas usar :</string>
     </property>
    </widget>
    <widget class="QComboBox" name="themeSelBox">

@@ -1,4 +1,4 @@
-#!/home/jernst/PythonProjects/Qt/dve/venv/bin/python3
+#!/home/jernst/PythonProjects/Qt/DVE/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

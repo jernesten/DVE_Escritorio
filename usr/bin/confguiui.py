@@ -117,7 +117,7 @@ class Ui_FormSettings(object):
         FormSettings.setWindowTitle(_translate("FormSettings", "Form"))
         self.aceptarButton.setText(_translate("FormSettings", "Aceptar"))
         self.cancelarButton.setText(_translate("FormSettings", "Cancelar"))
-        self.label1.setText(_translate("FormSettings", "Elije el tema que deseas usar :"))
+        self.label1.setText(_translate("FormSettings", "Elige el tema que deseas usar :"))
         self.label2.setText(_translate("FormSettings", "Editor de tema:"))
         self.borrarTemaButton.setText(_translate("FormSettings", "Borrar tema"))
         self.fontColorButton.setToolTip(_translate("FormSettings", "Editar color de las fuentes"))
