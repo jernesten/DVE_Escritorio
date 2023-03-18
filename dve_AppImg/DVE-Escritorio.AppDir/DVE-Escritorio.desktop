@@ -1,0 +1,10 @@
+[Desktop Entry]
+
+Name=DVE-Escritorio
+Exec=dve %U
+Terminal=false
+Type=Application
+Icon=DVE-Escritorio
+StartupWMClass=DVE-Escritorio
+Comment=Diccionario de variantes del español
+Categories=Utility;

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+rm -r 0HOME/.config/dve
+rm -r 0HOME/.local/share/dve
