@@ -110,7 +110,7 @@ Diccionario de variantes del español. Versión de escritorio del diccionario ht
 >
 > Esperamos que lo disfrute. ![wink](https://xn--diccionariovariantesespaol-4rc.org/media/editors/tinymce/plugins/emoticons/img/smiley-wink.gif)
 >
-> Acabamos de publicat una nuevaversión de la aplicación para Windows que no necesita instalaci
+> Acabamos de publicar una nueva versión de la aplicación para Windows que no necesita instalación. De esta forma podrás llevar DVE siempre contigo dentro de un USB.
 > 
 > ## Versión para OSX (Proximamente)
 > 
