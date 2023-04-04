@@ -108,7 +108,9 @@ Diccionario de variantes del español. Versión de escritorio del diccionario ht
 >
 >La instalación es sencilla, solo deben ejecutar el archivo y seguir las instrucciones de instalación del asistente.
 >
->Esperamos que lo disfrute. wink
+> Esperamos que lo disfrute. ![wink](https://xn--diccionariovariantesespaol-4rc.org/media/editors/tinymce/plugins/emoticons/img/smiley-wink.gif)
+>
+> Acabamos de publicat una nuevaversión de la aplicación para Windows que no necesita instalaci
 > 
 > ## Versión para OSX (Proximamente)
 > 
