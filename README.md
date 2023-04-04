@@ -102,7 +102,13 @@ Diccionario de variantes del español. Versión de escritorio del diccionario ht
 > 
 > `sudo apt-get update && sudo apt-get -y install libfuse2`
 > 
-> ## Versión para Windows (Proximamente)
+> ## Versión para Windows
+>
+> Ya tienen disponible para disfrutar en Windows la nueva publicación del diccionario. Se trata de una versión instalable que pueden descargar en esta misma página.
+>
+>La instalación es sencilla, solo deben ejecutar el archivo y seguir las instrucciones de instalación del asistente.
+>
+>Esperamos que lo disfrute. wink
 > 
 > ## Versión para OSX (Proximamente)
 > 
