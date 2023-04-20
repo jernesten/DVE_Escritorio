@@ -1,2 +1,2 @@
 #!/bin/sh
-pyinstaller -F -n dve usr/bin/main.linux.py
+pyinstaller -F -n dve usr/bin/main.py
