@@ -41,7 +41,7 @@ class Dve(QMainWindow, Ui_dveWindow):
         self.setWindowTitle("DVE Escritorio")
         self.center()
 
-        self.setWindowIcon(QIcon("img"+os.sep+"logo-ico.png"))
+        self.setWindowIcon(QIcon(resource_path("img"+os.sep+"logo-ico.png")))
 
         self.searchButton.clicked.connect(lambda: self.instanceInput("no"))
         self.dveButton.clicked.connect(lambda: self.instanceInput("no"))

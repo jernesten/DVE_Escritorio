@@ -2,4 +2,4 @@
 
 HERE="$(dirname "$(readlink -f "${0}")")"
 EXEC="${HERE}/usr/bin/dve"
-exec "venv/bin/python" ${HERE}"/usr/bin/main.linux.py"
+exec "venv/bin/python" ${HERE}"/usr/bin/main.py"
